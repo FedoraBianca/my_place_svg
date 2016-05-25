@@ -58,35 +58,42 @@ svg {
 <circle class="masa5"cx="220" cy="400" r="20"  fill="LawnGreen " />
 <circle class="masa5"cx="270" cy="400" r="20"  fill="LawnGreen " />
 
-
-
-
-<circle class="masa6"cx="50" cy="530" r="20"  fill="LawnGreen " />
-<circle class="masa6"cx="100" cy="530" r="20"  fill="LawnGreen " />
-<circle class="masa6"cx="150"cy="530" r="20"  fill="LawnGreen " />
-<rect class="masa6" x="30" y="560" rx="20" ry="20" width="140" height="60"
+<circle class="masa6" cx="390" cy="280" r="20"  fill="LawnGreen " />
+<circle class="masa6"cx="440" cy="280" r="20"  fill="LawnGreen " />
+<rect class="masa6"x="370" y="310" rx="20" ry="20" width="90" height="60"
   style="fill:LawnGreen ;" />
-<circle class="masa6"cx="50" cy="650" r="20"  fill="LawnGreen " />
-<circle class="masa6"cx="100" cy="650" r="20"  fill="LawnGreen " />
-<circle class="masa6"cx="150"cy="650" r="20"  fill="LawnGreen " />
+<circle class="masa6"cx="390" cy="400" r="20"  fill="LawnGreen " />
+<circle class="masa6"cx="440" cy="400" r="20"  fill="LawnGreen " />
 
-<circle class="masa7 "cx="270" cy="530" r="20"  fill="LawnGreen " />
-<circle class="masa7"cx="320" cy="530" r="20"  fill="LawnGreen " />
-<circle class="masa7"cx="370"cy="530" r="20"  fill="LawnGreen " />
-<rect class="masa7" x="250" y="560" rx="20" ry="20" width="140" height="60"
-  style="fill:LawnGreen ;" />
-<circle class="masa7"cx="270" cy="650" r="20"  fill="LawnGreen " />
-<circle class="masa7"cx="320" cy="650" r="20"  fill="LawnGreen " />
-<circle class="masa7"cx="370"cy="650" r="20"  fill="LawnGreen " />
 
-<circle class="masa8 "cx="490" cy="530" r="20"  fill="LawnGreen " />
-<circle class="masa8"cx="540" cy="530" r="20"  fill="LawnGreen " />
-<circle class="masa8"cx="590"cy="530" r="20"  fill="LawnGreen " />
-<rect class="masa8" x="470" y="560" rx="20" ry="20" width="140" height="60"
+
+
+<circle class="masa7"cx="50" cy="530" r="20"  fill="LawnGreen " />
+<circle class="masa7"cx="100" cy="530" r="20"  fill="LawnGreen " />
+<circle class="masa7"cx="150"cy="530" r="20"  fill="LawnGreen " />
+<rect class="masa7" x="30" y="560" rx="20" ry="20" width="140" height="60"
   style="fill:LawnGreen ;" />
-<circle class="masa8"cx="490" cy="650" r="20"  fill="LawnGreen " />
-<circle class="masa8"cx="540" cy="650" r="20"  fill="LawnGreen " />
-<circle class="masa8"cx="590"cy="650" r="20"  fill="LawnGreen " />
+<circle class="masa7"cx="50" cy="650" r="20"  fill="LawnGreen " />
+<circle class="masa7"cx="100" cy="650" r="20"  fill="LawnGreen " />
+<circle class="masa7"cx="150"cy="650" r="20"  fill="LawnGreen " />
+
+<circle class="masa8"cx="270" cy="530" r="20"  fill="LawnGreen " />
+<circle class="masa8"cx="320" cy="530" r="20"  fill="LawnGreen " />
+<circle class="masa8"cx="370"cy="530" r="20"  fill="LawnGreen " />
+<rect class="masa8" x="250" y="560" rx="20" ry="20" width="140" height="60"
+  style="fill:LawnGreen ;" />
+<circle class="masa8"cx="270" cy="650" r="20"  fill="LawnGreen " />
+<circle class="masa8"cx="320" cy="650" r="20"  fill="LawnGreen " />
+<circle class="masa8"cx="370"cy="650" r="20"  fill="LawnGreen " />
+
+<circle class="masa9 "cx="490" cy="530" r="20"  fill="LawnGreen " />
+<circle class="masa9"cx="540" cy="530" r="20"  fill="LawnGreen " />
+<circle class="masa9"cx="590"cy="530" r="20"  fill="LawnGreen " />
+<rect class="masa9" x="470" y="560" rx="20" ry="20" width="140" height="60"
+  style="fill:LawnGreen ;" />
+<circle class="masa9"cx="490" cy="650" r="20"  fill="LawnGreen " />
+<circle class="masa9"cx="540" cy="650" r="20"  fill="LawnGreen " />
+<circle class="masa9"cx="590"cy="650" r="20"  fill="LawnGreen " />
 
    Sorry, your browser does not support inline SVG.
 </svg> 
