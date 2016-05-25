@@ -24,6 +24,15 @@ svg {
 <circle class="masa1"cx="100" cy="170" r="20"  fill="LawnGreen " />
 <circle class="masa1"cx="150"cy="170" r="20"  fill="LawnGreen " />
 
+<circle class="masa2" cx="270" cy="50" r="20"  fill="LawnGreen " />
+<circle class="masa2"cx="320" cy="50" r="20"  fill="LawnGreen " />
+<circle class="masa2"cx="370"cy="50" r="20"  fill="LawnGreen " />
+<rect class="masa2"x="250" y="80" rx="20" ry="20" width="140" height="60"
+  style="fill:LawnGreen ;" />
+<circle class="masa2"cx="270" cy="170" r="20"  fill="LawnGreen " />
+<circle class="masa2"cx="320" cy="170" r="20"  fill="LawnGreen " />
+<circle class="masa2"cx="370"cy="170" r="20"  fill="LawnGreen " />
+
 
 
 <circle class="masa6"cx="50" cy="530" r="20"  fill="LawnGreen " />
