@@ -123,8 +123,9 @@ svg {
         m8array = svgDoc.getElementsByClassName("masa8");
         m9array = svgDoc.getElementsByClassName("masa9");
         
-       for(var i=0; i<m2array.length; i++){ 
-       m2array[i].setAttribute("fill","black");       
+        myArray =svgDoc.getElementsByClassName(evt.target.getAttribute("class"));
+       for(var i=0; i<myArray.length; i++){ 
+       myArray[i].setAttribute("fill","black");       
        }
         /*
         if(evt.target.getAttribute("fill") == "LawnGreen "){
