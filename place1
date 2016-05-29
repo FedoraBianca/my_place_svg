@@ -110,30 +110,26 @@ svg {
  
     
 <script>
-
+var pastSelection;
+var selected = 0;
+    
     function ch(evt){
-        svgDoc = evt.target.ownerDocument;
-        m1array = svgDoc.getElementsByClassName("masa1");
-        m2array = svgDoc.getElementsByClassName("masa2");
-        m3array = svgDoc.getElementsByClassName("masa3");
-        m4array = svgDoc.getElementsByClassName("masa4");
-        m5array = svgDoc.getElementsByClassName("masa5");
-        m6array = svgDoc.getElementsByClassName("masa6");
-        m7array = svgDoc.getElementsByClassName("masa7");
-        m8array = svgDoc.getElementsByClassName("masa8");
-        m9array = svgDoc.getElementsByClassName("masa9");
-        
+        svgDoc = evt.target.ownerDocument;    
         myArray =svgDoc.getElementsByClassName(evt.target.getAttribute("class"));
-       for(var i=0; i<myArray.length; i++){ 
-       myArray[i].setAttribute("fill","black");       
-       }
-        /*
-        if(evt.target.getAttribute("fill") == "LawnGreen "){
-            for(var i; i<m2array.length; i++){
-                alert(m2array[i]);
+        
+        if(selected >0){
+            for(var i=0; i<pastSelection.length; i++){ 
+                pastSelection[i].setAttribute("fill","LawnGreen ");
             }
+        } 
+        
+        for(var i=0; i<myArray.length; i++){ 
+            selected = 1;
+            myArray[i].setAttribute("fill","LightSlateGrey ");
         }
-        */   
+        
+        pastSelection = myArray;
+  
 
     }
 </script>    
